@@ -1,4 +1,4 @@
-# Examination-System-Database
+# Examination System Database
 
 The Examination System Database stands as a sophisticated and comprehensive solution meticulously crafted to streamline the intricacies of exam management, creation, and evaluation. This system integrates a plethora of features catering to question management, student assessment, and administrative functionalities.
 
